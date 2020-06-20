@@ -343,6 +343,7 @@ under the License.
 
 							<includes>
 								<include>org/apache/flink/streaming/examples/kafka/KafkaExample.class</include>
+								<include>org/apache/flink/streaming/examples/kafka/KafkaExample$*.class</include>
 							</includes>
 						</configuration>
 					</execution>
